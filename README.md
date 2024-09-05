@@ -14,10 +14,5 @@ This project is a software tool that converts image files to ASCII art. The soft
 - Java Development Kit (JDK) 8 or higher
 
 ## Example
-
-<div style="display:flex;">
-    <img src="examples/cat.jpeg" alt="Cat Photo" style="width:350px; margin-right: 10px;">
-    <img src="examples/out.png" alt="Output Photo" style="width:350px;">
-</div>
-
-
+![cat](https://github.com/user-attachments/assets/4ebe53e0-3501-4be8-956a-51170ef291d2 )
+![out](https://github.com/user-attachments/assets/c70cdc4d-9579-4c72-b112-874529bd486c)
